@@ -1,0 +1,2 @@
+# pseudokod
+# zadanie3
